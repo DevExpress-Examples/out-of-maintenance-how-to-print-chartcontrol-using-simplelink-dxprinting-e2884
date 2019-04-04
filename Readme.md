@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/ChartPrinting/MainPage.xaml) (VB: [MainPage.xaml](./VB/ChartPrinting/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ChartPrinting/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ChartPrinting/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ChartPrinting/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ChartPrinting/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to print ChartControl using SimpleLink (DXPrinting)
 
