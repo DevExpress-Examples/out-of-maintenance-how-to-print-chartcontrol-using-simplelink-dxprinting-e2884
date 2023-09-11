@@ -1,5 +1,0 @@
-﻿<!--
-See http://www.devexpress.com/example=E2215, to get the detailed example on using Silverlight XtraReports.
--->
-<%@ ServiceHost Service="DevExpress.XtraReports.Service.ReportService, DevExpress.XtraReports.v11.1.Service, Version=11.1.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
-
